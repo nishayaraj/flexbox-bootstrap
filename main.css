@@ -1,3 +1,31 @@
 body{
-  background-color: beige;
+  background-color:black;
+}
+
+p{
+color: white;
+}
+
+.imgCont{
+display: flex;
+justify-content: center; 
+align-items: center; 
+}
+
+.para{
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+}
+
+.para2{
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+}
+
+.social{
+  display: flex;
+  justify-content: center; 
+  align-items: center;
 }
